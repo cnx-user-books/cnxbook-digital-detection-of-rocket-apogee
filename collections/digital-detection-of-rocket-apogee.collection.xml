@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Edward Luckett">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11599</md:content-id>
-  <md:title>Digital Detection of Rocket Apogee</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>36fdaf81-f17c-4325-a90b-ffa07e2da5a6</md:uuid>
-<md:slug>digital-detection-of-rocket-apogee</md:slug>
-</metadata>
-
+    <md:content-id>col11599</md:content-id>
+    <md:title>Digital Detection of Rocket Apogee</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>36fdaf81-f17c-4325-a90b-ffa07e2da5a6</md:uuid>
+    <md:slug>digital-detection-of-rocket-apogee</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m48335"/>
-        
-      
-    
-    
-      <col:module document="m48330"/>
-        
-      
-    
-    
-      <col:module document="m48325"/>
-        
-      
-    
-    
-      <col:module document="m48321"/>
-        
-      
-    
-    
-      <col:module document="m48307"/>
-        
-      
-    
-    
-      <col:module document="m48306"/>
-        
-      
-    
+    <col:module document="m48335"/>
+    <col:module document="m48330"/>
+    <col:module document="m48325"/>
+    <col:module document="m48321"/>
+    <col:module document="m48307"/>
+    <col:module document="m48306"/>
   </col:content>
 </col:collection>
